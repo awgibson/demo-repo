@@ -1,3 +1,3 @@
 # Demo
 
-Some regular text right here. Nothign special.
+Some regular text right here. Nothing special.
